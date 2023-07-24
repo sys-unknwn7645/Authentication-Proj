@@ -1,0 +1,1 @@
+This project uses different authentication options. Repo includes multiple .js files for each option used: bcrypt on cipher, bcrypt, md5 on password, and passportjs library with local-mongoose, Google, Github and LinkedIn. Udemy Course: The Complete 2023 Web Developement Bootcamp Acknowledgement: Angela Yu (App Brewery).
